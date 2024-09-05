@@ -1,7 +1,6 @@
 # ChatApplication : WhisperWave 
 WhisperWave is a dynamic chat application designed for seamless communication and collaboration. It offers a smooth login and signup process, allowing users to create personalized profiles. Users can chat with others by searching for their username or Gmail. WhisperWave enables the creation of channels with multiple participants, where you can invite others to join. The app supports sending and receiving any file format, with easy downloading options. To make conversations more engaging, WhisperWave includes emoji support, adding a fun and expressive touch to your chats.
 
-Here's a more detailed explanation of the app features for your GitHub README:
 
 ---
 
